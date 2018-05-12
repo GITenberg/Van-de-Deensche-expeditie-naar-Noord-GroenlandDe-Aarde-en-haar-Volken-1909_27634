@@ -1,0 +1,30 @@
+_repo: Van-de-Deensche-expeditie-naar-Noord-GroenlandDe-Aarde-en-haar-Volken-1909_27634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trolle, Alf
+    alias: Trolle, Alf Erik Martin Jens Carl
+    birthdate: 1879
+    deathdate: 1949
+    gutenberg_agent_id: '32807'
+    url: http://www.gutenberg.org/2009/agents/32807
+description: ''
+gutenberg_issued: '2008-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27634'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Danmark-ekspeditionen (1906-1908)'
+- !lcsh 'Greenland -- Discovery and exploration -- Danish'
+title: 'Van de Deensche expeditie naar Noord-Groenland
+
+  De Aarde en haar Volken, 1909'
+url: http://www.gutenberg.org/ebooks/27634
